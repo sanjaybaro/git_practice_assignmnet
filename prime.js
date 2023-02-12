@@ -1,5 +1,5 @@
 
-let number=7;
+let number=6;
 
 let count=0;
 
@@ -15,10 +15,10 @@ count++;
 }
 if(count==2){
 
-print("Prime Number)
+console.log("Prime Number");
 
 }else{
 
-print("nOT a prime number);
+console.log("Not a prime number");
 
 }
