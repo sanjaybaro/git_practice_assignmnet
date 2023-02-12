@@ -1,4 +1,4 @@
-let str="naman";
+let str="mom";
 
 let N=str.length;
 
@@ -11,10 +11,10 @@ bag=bag+str[i];
 }
 if(bag==str){
 
-print("Yes);
+console.log("Yes");
 
 }else{
 
-print("No);
+console.log("No");
 
 }
